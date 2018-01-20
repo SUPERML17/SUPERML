@@ -1,2 +1,6 @@
 hello world！
+<<<<<<< HEAD
 asdasd
+=======
+The second test.
+>>>>>>> f5e85f25b7c6a29251993fb80b3966f805278f65
