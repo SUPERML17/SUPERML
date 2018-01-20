@@ -1,3 +1,13 @@
-hello world！
+﻿hello world！
+<<<<<<< HEAD
 The second test.
+The third test.
+=======
+<<<<<<< HEAD
+asdasd
+=======
+The second test.
+>>>>>>> f5e85f25b7c6a29251993fb80b3966f805278f65
+>>>>>>> 56453f045a8ccc254e76ad4d48fb13eec2cc3626
+》》》》
 The third test.
