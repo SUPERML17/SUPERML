@@ -1,0 +1,16 @@
+#git与github
+1.下载好Git并填好自己的邮箱和密码
+2.生成公钥 cd ~./ssh ssh-keygen
+3.添加公钥到github账号上
+4.如果之前没有过仓库，就直接克隆，如果之前已经有就用pull
+##git clone *****
+##git pull
+5.远程仓库
+##关联：git remote add origin ***
+##查看：git remote -v
+6.完成修改：git add .
+##只会add到暂存区，所以还需要“提交”，才会到远程仓库
+7.提交：git commit -m“填写修改的内容”
+8.放到远程仓库：git push （origin master）
+
+综上，6、7、8步好比把一只大象放入冰箱，要三步
